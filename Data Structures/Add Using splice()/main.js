@@ -1,4 +1,4 @@
-//The slice() method returns selected elements in an array, as a new array. 
+//The splice() method adds and/or removes array elements
 function htmlColorNames(arr) {
   arr.splice(0,2, 'DarkSalmon', 'BlanchedAlmond')
   return arr;
