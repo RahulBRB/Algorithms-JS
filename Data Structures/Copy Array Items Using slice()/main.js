@@ -1,4 +1,4 @@
-//The slice() method returns selected elements in an array, as a new array
+//The slice() method returns selected elements in an array, as a new array..
 
 function forecast(arr) {
   return arr.slice(2, 4);
